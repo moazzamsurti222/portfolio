@@ -72,10 +72,11 @@ Steps:
 ---
 
 ## 📬 Contact
-- **Email:** yourname@email.com
+- **Email:** moazzamsurti5@gmail.com
 - **GitHub:** https://github.com/moazzamsurti222
 - **LinkedIn:** https://www.linkedin.com/in/moazzam-surti
 
 ---
 
 © 2026 Moazzam Surti
+
