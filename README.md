@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 live website
-https://splendid-bavarois-ffa599.netlify.app
+https://fabulous-squirrel-617880.netlify.app/
 
 📌about this project
 A responsive personal portfolio website built using pure **HTML, CSS, and JavaScript** to showcase my skills, projects, and background as part of my internship task.
